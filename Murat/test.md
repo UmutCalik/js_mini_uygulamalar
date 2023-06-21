@@ -10,5 +10,6 @@ iki farklı resimde hangisinde daha fazla eleman var gibi
 
 <!-- !SESLI SAYI BULMA -->  
 
+<!-- !SAYI BULMA -->  
 
 
